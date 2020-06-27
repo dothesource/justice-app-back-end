@@ -31,3 +31,6 @@
 
 en:
   hello: "Hello world"
+  token_authenticatable:
+    invalid_token: 'Invalid token'
+    request_login_and_password: 'The request must contain the user login and password'
